@@ -1,0 +1,3 @@
+C:/Users/papre/Documents/Code/C/checkers_games/cmake-build-debug/CMakeFiles/checkers_games.dir
+C:/Users/papre/Documents/Code/C/checkers_games/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/papre/Documents/Code/C/checkers_games/cmake-build-debug/CMakeFiles/rebuild_cache.dir
